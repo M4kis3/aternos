@@ -2,5 +2,5 @@
 	"ip":"Maotaku.aternos.me",
 	"port": "25565",
 	"name": "afkbot2",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
